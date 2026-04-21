@@ -24,5 +24,3 @@ password: dbPassword ? "******" : "not set"
 app.listen(3000, () => {
 console.log("Server started on port 3000");
 });
-
-//7CgYK3bdJUBsqcmT
