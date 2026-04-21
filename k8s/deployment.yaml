@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: node-container
-        image: <TON_USERNAME_DOCKER>/tp-k8s-app:latest
+        image: cmathyz/tp-k8s-app:latest
         ports:
         - containerPort: 3000
         env:
