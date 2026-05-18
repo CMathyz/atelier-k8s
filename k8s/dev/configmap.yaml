@@ -1,5 +1,6 @@
 apiVersion: v1
 kind: ConfigMap
+namespace: dev
 metadata:
   name: app-config-dev
 data:
